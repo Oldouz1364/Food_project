@@ -1,4 +1,4 @@
-# Convolutional Neural networks Model
+# Simple Model for MNIST dataset
 
 %matplotlib inline
 import matplotlib
