@@ -1,13 +1,5 @@
 # CNN MODEL
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 13 18:43:08 2018
-
-@author: oldouz
-"""
-
 #1. Loading and normalizing CIFAR10
 
 import matplotlib.pyplot as plt
