@@ -1,4 +1,4 @@
-How to run on DTU HPC
+#How to run on DTU HPC
 
 ssh into your HPC account.
 
@@ -14,7 +14,7 @@ See this page for information on GPU nodes: https://www.hpc.dtu.dk/?page_id=2129
 
 If it is the first time you login, then follow the steps in the next section.
 
-First time setup
+#First time setup
 
 Add a file called .gbarrc.
 
