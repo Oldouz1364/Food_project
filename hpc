@@ -52,7 +52,7 @@ Exit the SSH session by typing `exit` and then login again using ssh.
 Now clone the repository.
 
 `
-git clone https://github.com/gugundi/NeuralMachineTranslation
+git clone https://github.com/Oldouz1364/Food_project
 `
 
 Run the following command:
