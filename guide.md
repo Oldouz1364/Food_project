@@ -1,4 +1,4 @@
-#How to run on DTU HPC
+How to run on DTU HPC
 
 ssh into your HPC account.
 
